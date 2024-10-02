@@ -1,0 +1,13 @@
+
+1. descargar el listado del sat
+2. Abrir el archivo de rfc
+3. Verificar que se encuentren los datos del archivo anterior
+4. Crear un loop para recorrer el archivo(rfc)
+5. Validar que la columna requerida muestre la informacion 
+6. crear el segundo loop dentro del anterior con el archivo descargado
+7. Validar la columna requerida
+8. comparar el valor de la columna del primer loop con la columna del segundo loop
+10. si se hace match, del segundo loop (archivo descargado) extraer el dato de la razon social
+11. Validar que si sea el valor requerido
+12. Insertar en el arhivo el valor  extraido del paso anterior en el archivo principal, antes de terminar el loop general
+13. si no se encuentra agregar en esa celda del primer archivo el valor de no encontrado
